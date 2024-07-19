@@ -4,7 +4,7 @@ on:
   push
 
 env:
-  ACCESS_ID: ${{ vars.ACCESS_ID }}
+  ACCESS_ID: kode-kloud-123456
 
 jobs:
   build:
